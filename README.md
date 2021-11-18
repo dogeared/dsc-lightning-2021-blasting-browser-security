@@ -1,17 +1,15 @@
 ## Blasting Browser Security with Extensions
-###      DevSecCon
 ```
-        ,/
-      ,'/
-    ,' /
-  ,'  /_____,
-.'____    ,' 
-     /  ,'
-    / ,'
-   /,'
-  /'
+                  ,/
+                ,'/
+              ,' /
+            ,'  /_____,
+DevSecCon .'____    ,' 2021
+               /  ,'
+              / ,'
+             /,'
+            /'
 ```
-### 2021
 
 * [Presentation](BlastingBrowserSecurity.pdf)
 * [Code](https://github.com/dogeared/pretty-kitty)
