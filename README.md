@@ -1,14 +1,16 @@
 ## Blasting Browser Security with Extensions
 ###      DevSecCon
-###        ,/
-###      ,'/
-###    ,' /
-###  ,'  /_____,
-###.'____    ,' 
-###     /  ,'
-###    / ,'
-###   /,'
-###  /'
+```
+        ,/
+      ,'/
+    ,' /
+  ,'  /_____,
+.'____    ,' 
+     /  ,'
+    / ,'
+   /,'
+  /'
+```
 ### 2021
 
 * [Presentation](BlastingBrowserSecurity.pdf)
